@@ -1,9 +1,12 @@
 # HOTTemplate
+
 Latex template for writing up or presenting a student project or thesis in the HOT at Leibniz University Hannover.
 
 <https://www.hot.uni-hannover.de>
 
-![HOT](https://www.hot.uni-hannover.de/fileadmin/site-templates/logos/HOT-Logo.jpg)
+
+<img src="https://www.hot.uni-hannover.de/fileadmin/site-templates/logos/HOT-Logo.jpg" width="70%">
+
 # Installation
 
 ## LaTex

@@ -1,7 +1,7 @@
 # Animations 
 
-Animation need JAVA support, just open PDF files with the Reader which supports JAVA.
-Adobe DC Reader a best choice.
+Animation needs JAVA support, just open PDF files with the Reader which supports JAVA.
+Adobe DC Reader is a best choice.
 
 # Cite shows [?]
 

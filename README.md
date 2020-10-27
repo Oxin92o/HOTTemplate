@@ -1,3 +1,5 @@
+![HOTTemplate](https://socialify.git.ci/Oxin92o/HOTTemplate/image?description=1&font=Inter&forks=1&language=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)
+
 # HOTTemplate
 
 Latex template for writing up or presenting a student project or thesis in the HOT at Leibniz University Hannover.
